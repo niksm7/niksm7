@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">A third year Information Technology undergrad from Thadomal Shahani Engineering college and aspiring Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niksm7&label=Profile%20views&color=0e75b6&style=flat" alt="niksm7" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://nikhilm.pythonanywhere.com/](https://nikhilm.pythonanywhere.com/)
 
 - 💬 Ask me about **Django, python**
