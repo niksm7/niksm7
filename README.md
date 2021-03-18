@@ -17,5 +17,5 @@
 <h3 align="left">Connect with me:</h3>
 
 [<img align="left" alt="Instagram - niksm07" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733558.svg" />](https://www.instagram.com/niksm07) [<img align="left" alt="LinkedIn - Nikhil Mankani" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733561.svg" />](https://www.linkedin.com/in/nikhilmankani/)[<img align="left" alt="Email - nikhilsmankani@gmail.com" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />](mailto:nikhilsmankani@gmail.com)
-
+<br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niksm7&show_icons=true&locale=en" alt="niksm7" /></p>
