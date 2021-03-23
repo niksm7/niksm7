@@ -14,6 +14,25 @@
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> | <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>|<img alt="VSCode" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/906/906324.svg"/>|<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>|<a href="https://www.tinkercad.com/" target="_blank"> <img src="https://cdn.iste.org/www-root/Libraries/Images/Default%20Library/tinkercad-logo.png" alt="tinkercad" width="40" height="40"/> </a>
 |--|--|--|--|--|
 
+### My projects
+
+Projects | Technologies | Live demo | GitHub repo
+------- | -------- | --------- | -----------
+Plant Nursery | HTML, CSS, JS, AJAX, Django, sqlite3 | [link](https://planthouse.pythonanywhere.com/) | [link](https://github.com/niksm7/PlantHouseDjango)
+Company Website| HTML,CSS, JS, Django | [link](https://www.tdb.ai/) | -
+Flask Rest API | HTML, CSS, JS, AJAX, Flask | [link](https://flaskapiui.pythonanywhere.com/) | [link](https://github.com/niksm7/Flask-Restful-API)
+Marksheet Replica | HTML, CSS, JS| [link](https://niksm7.github.io/marksheet-replica/) | [link](https://github.com/niksm7/marksheet-replica)
+Product Management GUI | Python, TKinter, Pickle | - | [link](https://github.com/niksm7/ProductManagementGUI)
+Desktop Assistant | Python | - | [link](https://github.com/niksm7/DesktopAssistant)
+Rasa Timezone Chatbot | Rasa, Python | - | [link](https://github.com/niksm7/RasaTimezoneChatbot)
+3 digit Guess | Tkinter, Python | - | [link](https://github.com/niksm7/numGuessGui)
+Scientific Calculator | Tkinter, Python | - | [link](https://github.com/niksm7/SciCalc)
+
+Code Collections | GitHub repo
+------- | -------- 
+Dynamic Programming Practice Questions | [link](https://github.com/niksm7/Dynamic-Programming-Questions)
+March LeetCoding Challenge 2021 | [link](https://github.com/niksm7/March-LeetCoding-Challenge2021)
+
 <h3 align="left">Connect with me:</h3>
 
 [<img align="left" alt="Instagram - niksm07" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733558.svg" />](https://www.instagram.com/niksm07) [<img align="left" alt="LinkedIn - Nikhil Mankani" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733561.svg" />](https://www.linkedin.com/in/nikhilmankani/)[<img align="left" alt="Email - nikhilsmankani@gmail.com" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />](mailto:nikhilsmankani@gmail.com)
