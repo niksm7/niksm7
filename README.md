@@ -20,7 +20,7 @@
 Projects | Technologies | Live demo | GitHub repo
 ------- | -------- | --------- | -----------
 Plant Nursery | HTML, CSS, JS, AJAX, Django, sqlite3 | [link](https://planthouse.pythonanywhere.com/) | [link](https://github.com/niksm7/PlantHouseDjango)
-Company Website| HTML,CSS, JS, Django | [link](https://www.tdb.ai/) | -
+Company Website| HTML,CSS, JS, Django | [link](https://companyw.pythonanywhere.com/) | -
 Flask Rest API | HTML, CSS, JS, AJAX, Flask | [link](https://flaskapiui.pythonanywhere.com/) | [link](https://github.com/niksm7/Flask-Restful-API)
 Marksheet Replica | HTML, CSS, JS| [link](https://niksm7.github.io/marksheet-replica/) | [link](https://github.com/niksm7/marksheet-replica)
 Product Management GUI | Python, TKinter, Pickle | - | [link](https://github.com/niksm7/ProductManagementGUI)
