@@ -19,6 +19,7 @@
 
 Projects | Technologies | Live demo | GitHub repo
 ------- | -------- | --------- | -----------
+Autolab - Lab Tests Management | Django, MySQL, HTML, JS, AJAX, jQuery| [link](http://autolabapp.pythonanywhere.com/) | -
 Plant Nursery | HTML, CSS, JS, AJAX, Django, sqlite3 | [link](https://planthouse.pythonanywhere.com/) | [link](https://github.com/niksm7/PlantHouseDjango)
 Company Website| HTML,CSS, JS, Django | [link](https://companyw.pythonanywhere.com/) | -
 Flask Rest API | HTML, CSS, JS, AJAX, Flask | [link](https://flaskapiui.pythonanywhere.com/) | [link](https://github.com/niksm7/Flask-Restful-API)
